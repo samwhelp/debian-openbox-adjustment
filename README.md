@@ -39,7 +39,7 @@
 
 | Script |
 | ------ |
-| [Debian Openbox Config](https://github.com/samwhelp/debian-openbox-adjustment) |
+| [Debian Openbox Config](https://github.com/samwhelp/debian-openbox-adjustment/tree/main/prototype/main/openbox-config/part/Main) |
 | [Tool Config](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
@@ -49,6 +49,14 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Debian Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
-| [Ubuntu Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
-| [Linux Mint Adjustment](https://samwhelp.github.io/linuxmint-adjustment/) | [GitHub](https://github.com/samwhelp/linuxmint-adjustment) |
+| [Openbox Adjustment](https://samwhelp.github.io/openbox-adjustment/) | [GitHub](https://github.com/samwhelp/openbox-adjustment) |
+| [Ubuntu Openbox Adjustment](https://samwhelp.github.io/ubuntu-openbox-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-openbox-adjustment) |
+| [Fedora Openbox Adjustment](https://samwhelp.github.io/fedora-openbox-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-openbox-adjustment) |
+| [Archlinux Openbox Adjustment](https://samwhelp.github.io/archlinux-openbox-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-openbox-adjustment) |
+
+
+
+
+## Samwhelp
+
+* [GitHub](https://github.com/samwhelp)
